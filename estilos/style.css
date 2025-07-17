@@ -51,7 +51,6 @@ div#formulario > h1{
 }
 div#formulario > p{
     font-size: 0.8em;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.452);
     text-align: justify;
     margin: 5px 0px;
 }
