@@ -53,6 +53,7 @@ div#formulario > p{
     font-size: 0.8em;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.452);
     text-align: justify;
+    margin: 5px 0px;
 }
 form > div.campo{
     background-color: #5f2c82;
@@ -61,7 +62,7 @@ form > div.campo{
     width: 100%;
     height: 40px;
     border-radius: 8px;
-    margin: 5px 0px;
+    margin: 7px 0px;
 }
 div.campo > label{
     display: none;
